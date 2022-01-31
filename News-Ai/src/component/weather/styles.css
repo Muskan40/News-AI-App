@@ -1,0 +1,135 @@
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+
+@import url(https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/css/weather-icons.min.css);
+
+
+.bodysy {
+  background-color: black;
+  background: var(--color-dark);
+  height: 100vh;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+.widget29 {
+  display: flex;
+  height: 400px;
+  width: 650px;
+  flex-wrap: wrap;
+  cursor: pointer;
+  margin-top: 5%;
+  margin-left: 28%;
+  margin-bottom: 2%;
+  border-radius: 20px;
+  box-shadow: 0 27px 55px 0 #52057b,
+    0 17px 17px 0 #52057b;
+}
+.widget29 .weatherIcon29 {
+  flex: 1 100%;
+  height: 50%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  background: #fafafa;
+  font-family: weathericons;
+  
+}
+.gif29{
+  
+  width:100%;
+  height:100%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  overflow: scroll;
+  
+}
+
+.widget29 .weatherInfo29 {
+  flex: 0 0 70%;
+  height: 40%;
+  background: black;
+  display: flex;
+  align-items: center;
+  color: #8416d3;
+}
+.widget29 .weatherInfo29 .temperature29 {
+  flex: 0 0 40%;
+  width: 100%;
+  font-size: 65px;
+  display: flex;
+  justify-content: space-around;
+  margin-right: 20px;
+}
+.widget29 .weatherInfo29 .description29 {
+  flex: 0 60%;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+}
+.widget29 .weatherInfo29 .description29 .weatherCondition29 {
+  text-transform: uppercase;
+  font-size: 35px;
+  font-weight: 100;
+}
+.widget29 .weatherInfo29 .description29 .place29 {
+  font-size: 15px;
+}
+.widget29 .date29 {
+  flex: 0 0 30%;
+  height: 40%;
+  background: black;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color:#8416d3 ;
+  font-size: 30px;
+  font-weight: 800;
+  text-align: center;
+}
+
+.widget29 .extra-temp29 {
+  flex: 1 100%;
+  padding: 5% 0;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background: black;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  align-items: center;
+  font-size: 100px;
+}
+
+.widget29 .extra-temp29 p {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.temp-info-minmax29,
+.weather-extra-info29,
+.two-sided-section29 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  text-align: center;
+  align-items: center;
+  color: #52057b;
+  /* background-color: blanchedalmond; */
+}
+
+.widget29 .extra-temp29 .extra-info-leftside29 {
+  text-align: left;
+  font-weight: 600;
+  text-transform: capitalize;
+  color: #52057b;
+  font-size: 15px;
+}
+
+
+.wrap29 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: -150px;
+  margin-bottom: 50px;
+}
