@@ -25,3 +25,10 @@ javascript
 
 
 ## `Screenshot`
+![news3](https://user-images.githubusercontent.com/67264445/151753321-4078d129-c792-4836-b784-d5707190491d.jpg)
+
+---
+![news1](https://user-images.githubusercontent.com/67264445/151753336-416aedf1-18fe-4066-a647-96067c1a07a4.jpg)
+
+---
+![news2](https://user-images.githubusercontent.com/67264445/151753343-2ef8f359-3d10-4e85-848c-5d8e3a84a787.jpg)
