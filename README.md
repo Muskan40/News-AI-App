@@ -2,13 +2,14 @@
 
 | Project | Link |
 | ------ | ------ |
-| Website |  http://go-go-fitness.netlify.app
+| Website |  https://app-news-ai.netlify.app/
 | Video Demo | https://drive.google.com/file/d/1q78AfmKIRAkmSwZjdlo3j8Vhzph1H4n_/view?usp=sharing
 ---
 ## `Features`
-- Calculates the Body Mass Index,Body Shape Index and Body Fat percentage.
-- Gives you access for different target muscle with animated demonstrations for the muscle you search. 
-- Gives you Food calories details for food you search.
+- Used Alan-AI integration for voice command.
+- Gives you access to worldwide news in differrent categories. 
+- Automatically reads the headlines of news on your command and also has an automatic scroller.
+- Gives you acccess to the weather report.
 - Used `Material-ui` for frontend design.
 
 
